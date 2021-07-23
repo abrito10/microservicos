@@ -1,9 +1,0 @@
-
-spring:
-
-  application:
-    name: shopping-cart-new
-
-  cloud:
-    config:
-      uri: http://localhost:8889
