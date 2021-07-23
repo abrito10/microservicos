@@ -1,13 +1,13 @@
-package com.abrito10.productcatalog;
+package com.abrito10.shoppingcart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProductCatalogApplication {
+public class ShoppingCartApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProductCatalogApplication.class, args);
+		SpringApplication.run(ShoppingCartApplication.class, args);
 	}
 
 }

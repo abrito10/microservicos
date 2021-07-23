@@ -1,10 +1,10 @@
-package com.abrito10.productcatalog;
+package com.abrito10.shoppingcartnew;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductCatalogApplicationTests {
+class ShoppingCartNewApplicationTests {
 
 	@Test
 	void contextLoads() {
